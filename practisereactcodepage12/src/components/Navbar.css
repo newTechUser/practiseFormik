@@ -1,0 +1,22 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.maincontent{
+    display: flex;
+    gap: 20px;
+}
+.button{
+    background-color: yellow;
+    width: 100px;
+    height: 50px;
+}
+.image2{
+    width: 100px;
+    height: 30px;
+}
+.mainnav{
+    font-weight: bold;
+}
